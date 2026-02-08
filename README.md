@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Yash Gupta 👋  <br>Computer Science and Business Systems student <br>who loves coding, data, and building real-world tech solutions. <br>Currently focused on Java, DSA, and core computer science while <br>exploring AI and machine learning.<br>
+Hi, I'm Yash Gupta 👋  <brHi, I'm Yash Gupta 👋  
+A B.Tech Computer Science and Business Systems student at NMIMS, passionate about software development, data, and emerging technologies like AI and ML. I enjoy building practical projects, solving problems, and exploring how technology can create real-world impact.
+.<br>
 
 
 # 💻 Tech Stack:
